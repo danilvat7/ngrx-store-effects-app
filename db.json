@@ -84,12 +84,28 @@
       "name": "Seaside Surfin'",
       "toppings": [
         {
-          "id": 6,
-          "name": "mushroom"
+          "id": 1,
+          "name": "anchovy"
         },
         {
-          "id": 7,
-          "name": "olive"
+          "id": 8,
+          "name": "onion"
+        },
+        {
+          "id": 9,
+          "name": "pepper"
+        },
+        {
+          "id": 5,
+          "name": "mozzarella"
+        },
+        {
+          "id": 10,
+          "name": "pepperoni"
+        },
+        {
+          "id": 6,
+          "name": "mushroom"
         },
         {
           "id": 2,
@@ -100,24 +116,12 @@
           "name": "basil"
         },
         {
-          "id": 1,
-          "name": "anchovy"
-        },
-        {
-          "id": 8,
-          "name": "onion"
+          "id": 7,
+          "name": "olive"
         },
         {
           "id": 11,
           "name": "sweetcorn"
-        },
-        {
-          "id": 9,
-          "name": "pepper"
-        },
-        {
-          "id": 5,
-          "name": "mozzarella"
         }
       ],
       "id": 2
