@@ -12,6 +12,7 @@ import { getPizzaVisualised } from '../../store/selectors/pizzas.selectors';
 @Component({
   selector: 'product-item',
   styleUrls: ['product-item.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <div
       class="product-item">
